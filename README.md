@@ -1,5 +1,7 @@
- Project Name: Lyrics App
- Overview    : The Lyrics App is a desktop application built using Python's Tkinter library for the graphical user interface (GUI).
+ Project Name: Lyrics App  
+
+
+               The Lyrics App is a desktop application built using Python's Tkinter library for the graphical user interface (GUI).
                It allows users to enter the name of a song and the artist, fetches the lyrics from an online API, and displays the lyrics inside a scrollable text area.
 
 App Features:  *User Input: Input fields for artist name and song title.
