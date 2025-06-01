@@ -4,7 +4,8 @@
                It allows users to enter the name of a song and the artist, fetches the lyrics from an online API.
                It displays the lyrics inside a scrollable text area.
 
-App Features:  *User Input: Input fields for artist name and song title.
+App Features: 
+               *User Input: Input fields for artist name and song title.
 
                *Fetch Lyrics:  When the user clicks the "Get Lyrics" button, the app sends a request to the lyrics API.
 
@@ -12,7 +13,8 @@ App Features:  *User Input: Input fields for artist name and song title.
 
                *Error Handling: Alerts the user if inputs are missing or lyrics are not found.
 
-UI Enhancement Suggestions :  *Add dark mode or custom color themes
+UI Enhancement Suggestions :  
+                              *Add dark mode or custom color themes
                               *Add song suggestions/autocomplete
                               *Add history or favorites functionality
 
