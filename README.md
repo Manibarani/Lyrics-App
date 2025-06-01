@@ -14,9 +14,9 @@ App Features:
                *Error Handling: Alerts the user if inputs are missing or lyrics are not found.
 
 UI Enhancement Suggestions :  
-                              *Add dark mode or custom color themes
-                              *Add song suggestions/autocomplete
-                              *Add history or favorites functionality
+                              *Add dark mode or custom color themes.
+                              *Add song suggestions/autocomplete.
+                              *Add history or favorites functionality.
 
 | Component      | Description                         |
 | -------------- | ----------------------------------- |
